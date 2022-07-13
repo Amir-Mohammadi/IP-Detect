@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54dd2cb0-c419-4101-acf4-5482fe37aa1f": {
+      "ProjectGuid": "54dd2cb0-c419-4101-acf4-5482fe37aa1f",
+      "DisplayName": "IpDetect",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

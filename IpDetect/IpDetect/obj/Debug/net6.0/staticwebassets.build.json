@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ao57yugQ27wOayt7nK5hjriEMP0knbBfnsS0P6bvaGQ=",
+  "Source": "IpDetect",
+  "BasePath": "_content/IpDetect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
